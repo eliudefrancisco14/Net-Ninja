@@ -4,12 +4,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        "wather-primary": "#3E008A",
-        "wather-secondary": "#3E0071",
+        "weather-primary": "#4A00A5",
+        "weather-secondary": "#2E0054",
       },
     },
     fontFamily: {
-      sans: ["Embed code", "sans-serif"],
+      sans: ["Embed-code", "sans-serif"],
     },
     container: {
       padding: "2rem",
